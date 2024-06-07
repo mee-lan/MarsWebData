@@ -13,7 +13,7 @@ Pre-requisites
 
 You need to know:
 - How to create Composable functions.
-- How to use architecture components including ViewModel.
+- How to use afrchitecture components including ViewModel.
 - How to use coroutines for long-running tasks.
 - Familiarity with lazy grid
 
@@ -35,4 +35,4 @@ Learn how to use community-developed libraries to connect to a web service to re
 Learn how to improve the architecture of the app by separating the network calls into a repository.
 
 ### [Load and display images from the internet](https://developer.android.com/codelabs/basic-android-kotlin-compose-load-images)
-Use the Coil library to load and display photos from the internet in your Android Compose app. 
+Use the Coil library to load and display photos from the internet in your Android Compose app
